@@ -3,19 +3,8 @@
 <div align="center">
 
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:450A0A,50:991B1B,100:EF4444&text=Monish%20Dharwadkar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FEE2E2,50:F87171,100:DC2626&text=Monish%20Dharwadkar&fontSize=42&fontColor=450A0A&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn"
-    />
-    <img
-      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FEE2E2,50:F87171,100:DC2626&text=Monish%20Dharwadkar&fontSize=42&fontColor=450A0A&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn"
-      width="100%"
-      alt="Monish Dharwadkar profile banner"
-    />
+     <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+     <img alt="Logo for Monishdharwadkar" src="art/header-light.png">
   </picture>
 
   <h1>Hey there, I'm Monish Dharwadkar 👋</h1>
