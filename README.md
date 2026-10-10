@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td>🎭 <b>Beyond tech</b></td>
-    <td>Dance, cricket, volleyball & discovering great food</td>
+    <td>Dance, Badminton, Cricket & discovering great food and coffee</td>
   </tr>
 </table>
 
