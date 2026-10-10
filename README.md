@@ -100,15 +100,39 @@
 <div align="center">
 
   <img
-    src="https://skillicons.dev/icons?i=go,python,java,js,c,fastapi,django,flask,react,nextjs,html,css&theme=dark&perline=12"
-    alt="Go, Python, Java, JavaScript, C, FastAPI, Django, Flask, React, Next.js, HTML and CSS"
+    src="https://skillicons.dev/icons?i=react,js,ts,html,css,django,fastapi,flask,py,go,c,git,github,docker,kubernetes,jenkins,grafana,prometheus,postgres,mongodb,redis,linux,ubuntu,ansible,tensorflow&theme=dark&perline=13"
+    alt="React, JavaScript, TypeScript, HTML5, CSS, Django, FastAPI, Flask, Python, Go, C, Git, GitHub, Docker, Kubernetes, Jenkins, Grafana, Prometheus, PostgreSQL, MongoDB, Redis, Linux, Ubuntu, Ansible and TensorFlow"
   />
 
   <br/><br/>
 
   <img
-    src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,ansible,jenkins,linux,aws,grafana,prometheus,git,pytorch,tensorflow&theme=dark&perline=14"
-    alt="PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Ansible, Jenkins, Linux, AWS, Grafana, Prometheus, Git, PyTorch and TensorFlow"
+    src="https://img.shields.io/badge/SingleStore-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white"
+    alt="SingleStore"
+  />
+  <img
+    src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"
+    alt="LangChain"
+  />
+  <img
+    src="https://img.shields.io/badge/LangGraph-DC2626?style=for-the-badge"
+    alt="LangGraph"
+  />
+  <img
+    src="https://img.shields.io/badge/RAG-DC2626?style=for-the-badge"
+    alt="RAG"
+  />
+  <img
+    src="https://img.shields.io/badge/Agentic%20AI-B91C1C?style=for-the-badge"
+    alt="Agentic AI"
+  />
+  <img
+    src="https://img.shields.io/badge/Chatbots-DC2626?style=for-the-badge"
+    alt="Chatbots"
+  />
+  <img
+    src="https://img.shields.io/badge/Machine%20Learning-991B1B?style=for-the-badge"
+    alt="Machine Learning"
   />
 
 </div>
@@ -157,17 +181,11 @@
 
 <p align="center">
   <a href="https://github.com/monishdharwadkar">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph?username=monishdharwadkar&bg_color=0d1117&color=8B949E&line=ef4444&point=fca5a5&area=true&hide_border=true"
-      />
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=monishdharwadkar&bg_color=ffffff&color=444444&line=dc2626&point=ef4444&area=true&hide_border=true"
-        alt="GitHub contribution activity graph"
-        width="100%"
-      />
-    </picture>
+    <img
+      src="https://ghchart.rshah.org/DC2626/monishdharwadkar"
+      alt="GitHub contribution heatmap"
+      width="100%"
+    />
   </a>
 </p>
 
@@ -195,7 +213,7 @@
     />
   </a>
 
-  <a href="mailto:monishdharwadkar@gmail.com">
+  <a href="mailto:monishdp1703@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Get%20in%20Touch-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
