@@ -28,7 +28,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="mailto:monishdharwadkar@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=monishdp1703@gmail.com&su=Hello%20Monish">
     <img
       src="https://img.shields.io/badge/Email-Say%20Hello-DC2626?style=flat-square&logo=gmail&logoColor=white"
       alt="Email"
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td>🎭 <b>Beyond tech</b></td>
-    <td>Dance, Badminton, Cricket & discovering great food and coffee</td>
+    <td>Dance, cricket, volleyball & discovering great food</td>
   </tr>
 </table>
 
@@ -213,7 +213,7 @@
     />
   </a>
 
-  <a href="mailto:monishdp1703@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=monishdp1703@gmail.com&su=Hello%20Monish">
     <img
       src="https://img.shields.io/badge/Email-Get%20in%20Touch-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email"
