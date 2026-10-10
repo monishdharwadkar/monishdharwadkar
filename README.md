@@ -1,236 +1,292 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║          MONISH DHARWADKAR • GITHUB PROFILE README          ║
-  ║                Modern • Minimal • Developer                ║
-  ╚══════════════════════════════════════════════════════════════╝
-
-  SETUP:
-  1. Create a repository named YOUR_USERNAME.
-  2. Save this file as README.md in the repository root.
-  3. Replace remaining placeholders with your actual social links.
-  4. Enable GitHub Actions for the contribution snake workflow.
--->
+<!-- ==================== HEADER BANNER ==================== -->
 
 <div align="center">
 
-  <!-- Responsive Light/Dark Banner -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FFB6D9,50:EC8ACD,100:F5C6E8&text=MONISH%20DHARWADKAR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&animation=fadeIn&stroke=F7D5E8&strokeWidth=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FCE7F3,50:F9A8D4,100:EC4899&text=MONISH%20DHARWADKAR&fontSize=42&fontColor=831843&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&animation=fadeIn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:FCE7F3,50:F9A8D4,100:EC4899&text=MONISH%20DHARWADKAR&fontSize=42&fontColor=831843&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Monish Dharwadkar GitHub profile banner"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:450A0A,50:991B1B,100:EF4444&text=Monish%20Dharwadkar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FEE2E2,50:F87171,100:DC2626&text=Monish%20Dharwadkar&fontSize=42&fontColor=450A0A&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn"
+    />
+    <img
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FEE2E2,50:F87171,100:DC2626&text=Monish%20Dharwadkar&fontSize=42&fontColor=450A0A&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn"
+      width="100%"
+      alt="Monish Dharwadkar profile banner"
+    />
   </picture>
 
-  <br/>
-
-  # Hey there, I'm Monish Dharwadkar 👋
+  <h1>Hey there, I'm Monish Dharwadkar 👋</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=700&height=55&lines=Associate+Software+Engineer;Backend+%26+Distributed+Systems+Enthusiast;Exploring+AI+%26+Agentic+Systems;Building+Reliable%2C+Scalable+Software;Turning+Ideas+Into+Production-Ready+Code" alt="Typing SVG"/>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=650&height=50&lines=Associate+Software+Engineer;Backend+%26+Distributed+Systems;Exploring+Agentic+AI+%26+LLMs;Building+Scalable+Cloud-Native+Systems;Turning+Ideas+Into+Production-Ready+Code"
+      alt="Animated typing text"
+    />
   </a>
-
-  <br/>
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=EC4899&labelColor=1F1724" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=F472B6&labelColor=1F1724" alt="GitHub stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=DB2777&label=PROFILE+VIEWS" alt="Profile views"/>
 
   <br/><br/>
 
-  *Engineering scalable systems, exploring intelligent automation, and learning something new every day.*
+  <a href="https://github.com/monishdharwadkar">
+    <img
+      src="https://img.shields.io/github/followers/monishdharwadkar?label=Followers&style=for-the-badge&color=DC2626&labelColor=18181B"
+      alt="GitHub followers"
+    />
+  </a>
+  <a href="https://github.com/monishdharwadkar?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/monishdharwadkar?label=Stars&style=for-the-badge&color=EF4444&labelColor=18181B"
+      alt="GitHub stars"
+    />
+  </a>
 
-  <br/>
+  <br/><br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-EC4899?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-EC4899?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-  [![Email](https://img.shields.io/badge/Email-Say%20Hello-EC4899?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+  <p>
+    <em>Engineering reliable systems, exploring intelligent automation, and building things that matter.</em>
+  </p>
+
+  <a href="https://github.com/monishdharwadkar">
+    <img
+      src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-DC2626?style=flat-square&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/monishdp/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:monishdharwadkar@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Say%20Hello-DC2626?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
 </div>
 
----
-
-## <div align="center">✦ About Me ✦</div>
-
-<table>
-  <tr>
-    <td width="65%" valign="middle">
-
-### Hey, welcome to my corner of GitHub!
-
-I'm **Monish Dharwadkar**, an Associate Software Engineer passionate about building reliable backend systems, scalable applications, and practical AI-powered solutions.
-
-- 💻 **Currently working on:** Backend engineering, microservices, and cloud-native systems.
-- 🤖 **Exploring:** Agentic AI, LLM applications, RAG pipelines, and intelligent automation.
-- ⚙️ **Engineering interests:** Distributed systems, system design, observability, and performance optimization.
-- 🐳 **Cloud-native stack:** Docker, Kubernetes, CI/CD, and infrastructure automation.
-- 🌱 **Always learning:** Better engineering practices, open-source tools, and scalable architectures.
-- 🎯 **My philosophy:** Build things that solve real problems, not just things that look good in a demo.
-- 🎭 **Beyond the terminal:** Dance, cricket, volleyball, and discovering great food.
-
-I'm always interested in collaborating on meaningful projects, exploring new technologies, and connecting with fellow builders.
-
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/YOUR_USERNAME.png" width="220" alt="GitHub profile avatar" style="border-radius: 50%;"/>
-      <br/><br/>
-      <strong>MONISH DHARWADKAR</strong>
-      <br/>
-      <sub>Software Engineer · Lifelong Learner</sub>
-      <br/><br/>
-      <a href="https://github.com/YOUR_USERNAME">
-        <img src="https://img.shields.io/badge/Explore%20My%20Work-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=monishdharwadkar&label=PROFILE%20VIEWS&color=DC2626&style=for-the-badge"
+    alt="Profile views"
+  />
+</p>
 
 ---
 
-## <div align="center">✦ Tech Stack & Tools ✦</div>
+<!-- ==================== ABOUT ME ==================== -->
+
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+  <img
+    src="https://github.com/monishdharwadkar.png"
+    width="170"
+    alt="Monish Dharwadkar GitHub avatar"
+  />
+</p>
+
+<h3 align="center">Hey, welcome to my corner of GitHub!</h3>
+
+<p align="center">
+  I'm <strong>Monish Dharwadkar</strong>, an Associate Software Engineer
+  passionate about backend engineering, distributed systems,
+  cloud-native infrastructure, and practical AI applications.
+</p>
 
 <div align="center">
 
-### Languages
+  💻 **Profession:** Associate Software Engineer
 
-<img src="https://skillicons.dev/icons?i=go,python,java,js,c&theme=light" alt="Programming languages" />
+  ⚙️ **Building with:** Go, Python, REST APIs & Microservices
 
-### Backend & Development
+  ☁️ **Infrastructure:** Docker, Kubernetes, CI/CD & Ansible
 
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask,react,nextjs,html,css&theme=light" alt="Backend and frontend technologies" />
+  🤖 **Exploring:** Agentic AI, LLMs, RAG & AI-powered developer tools
 
-### Databases & Infrastructure
+  📊 **Observability:** Grafana, Kubernetes telemetry & production debugging
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,ansible,jenkins,linux,git,github&theme=light" alt="Databases, DevOps, and development tools" />
+  🌱 **Learning:** System design, scalable architectures & AI engineering
 
-### AI, Cloud & Observability
+  🎭 **Beyond tech:** Dance, cricket, volleyball & discovering great food
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,grafana,prometheus,bash,vscode&theme=light" alt="AI, cloud, monitoring, and developer tools" />
+</div>
 
-<br/>
+<p align="center">
+  I enjoy solving real-world engineering problems, improving system reliability,
+  and turning ideas into production-ready solutions.
+</p>
 
-<img src="https://img.shields.io/badge/LLMs-RAG%20%26%20AI%20Agents-EC4899?style=flat-square" alt="LLMs and AI agents"/>
-<img src="https://img.shields.io/badge/Vector%20Search-FAISS-DB2777?style=flat-square" alt="FAISS vector search"/>
-<img src="https://img.shields.io/badge/APIs-REST-EC4899?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Practices-CI%2FCD%20%7C%20Code%20Review-F472B6?style=flat-square" alt="Engineering practices"/>
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+<h2 align="center">⚡ Tech Stack & Tools</h2>
+
+<div align="center">
+
+  <h3>Languages</h3>
+
+  <img
+    src="https://skillicons.dev/icons?i=go,python,java,js,c&theme=dark"
+    alt="Go, Python, Java, JavaScript and C"
+  />
+
+  <br/><br/>
+
+  <h3>Backend & Frontend</h3>
+
+  <img
+    src="https://skillicons.dev/icons?i=django,fastapi,flask,react,nextjs,html,css&theme=dark"
+    alt="Django, FastAPI, Flask, React, Next.js, HTML and CSS"
+  />
+
+  <br/><br/>
+
+  <h3>Databases & Infrastructure</h3>
+
+  <img
+    src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,ansible,jenkins,linux&theme=dark"
+    alt="PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Ansible, Jenkins and Linux"
+  />
+
+  <br/><br/>
+
+  <h3>AI, Cloud & Developer Tools</h3>
+
+  <img
+    src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,grafana,prometheus,git,github,vscode&theme=dark"
+    alt="TensorFlow, PyTorch, AWS, Grafana, Prometheus, Git, GitHub and VS Code"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://img.shields.io/badge/AI-LLMs%20%26%20RAG-DC2626?style=flat-square"
+    alt="LLMs and RAG"
+  />
+  <img
+    src="https://img.shields.io/badge/Vector%20Search-FAFAFA?style=flat-square&labelColor=991B1B"
+    alt="Vector search"
+  />
+  <img
+    src="https://img.shields.io/badge/APIs-REST-DC2626?style=flat-square"
+    alt="REST APIs"
+  />
+  <img
+    src="https://img.shields.io/badge/Practices-CI%2FCD%20%7C%20Code%20Reviews-B91C1C?style=flat-square"
+    alt="CI/CD and code reviews"
+  />
 
 </div>
 
 ---
 
-## <div align="center">✦ Featured Projects ✦</div>
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+<h2 align="center">⚡ GitHub Statistics</h2>
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_ONE&theme=default&hide_border=true&title_color=DB2777&icon_color=EC4899&bg_color=FFFFFF" alt="Featured project one" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_TWO&theme=default&hide_border=true&title_color=DB2777&icon_color=EC4899&bg_color=FFFFFF" alt="Featured project two" />
-</a>
+  <a href="https://github.com/monishdharwadkar">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=monishdharwadkar&show_icons=true&include_all_commits=true&hide_border=true&custom_title=GitHub%20Statistics&bg_color=FFFFFF&title_color=DC2626&text_color=444444&icon_color=DC2626"
+      width="495"
+      alt="GitHub statistics and commit summary"
+    />
+  </a>
 
-<br/>
+  <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_THREE&theme=default&hide_border=true&title_color=DB2777&icon_color=EC4899&bg_color=FFFFFF" alt="Featured project three" />
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_FOUR&theme=default&hide_border=true&title_color=DB2777&icon_color=EC4899&bg_color=FFFFFF" alt="Featured project four" />
-</a>
+  <a href="https://github.com/monishdharwadkar">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishdharwadkar&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=DC2626&text_color=444444"
+      height="180"
+      alt="Most used programming languages"
+    />
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
+  <img
+    src="https://streak-stats.demolab.com?user=monishdharwadkar&hide_border=true&background=FFFFFF&ring=DC2626&fire=EF4444&currStreakLabel=B91C1C&sideLabels=555555&currStreakNum=333333&sideNums=333333&dates=777777"
+    width="75%"
+    alt="GitHub contribution streak"
+  />
 
 </div>
 
 ---
 
-## <div align="center">✦ GitHub Statistics ✦</div>
+<!-- ==================== CONTRIBUTION ACTIVITY ==================== -->
+
+<h2 align="center">⚡ Contribution Activity</h2>
+
+<p align="center">
+  <a href="https://github.com/monishdharwadkar">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=monishdharwadkar&bg_color=ffffff&color=444444&line=dc2626&point=ef4444&area=true&hide_border=true"
+      alt="GitHub contribution activity graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>A visual overview of my GitHub contribution activity.</sub>
+</p>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+<h2 align="center">⚡ Let's Connect</h2>
+
+<p align="center">
+  Have an interesting idea, an engineering challenge, or a project to collaborate on?
+  Let's connect!
+</p>
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=FFFFFF&title_color=DB2777&text_color=555555&icon_color=EC4899&ring_color=EC4899" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=DB2777&text_color=555555" alt="Most used programming languages"/>
-</a>
+  <a href="https://www.linkedin.com/in/monishdp/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&hide_border=true&background=FFFFFF&ring=EC4899&fire=DB2777&currStreakLabel=DB2777&sideLabels=555555&currStreakNum=333333&sideNums=333333&dates=777777" alt="GitHub contribution streak" width="75%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=FFFFFF&color=555555&line=EC4899&point=DB2777&area=true&area_color=FCE7F3&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub contribution activity graph"/>
+  <a href="mailto:monishdharwadkar@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Get%20in%20Touch-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
 </div>
 
 ---
 
-## <div align="center">✦ Contribution Snake ✦</div>
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
-Watch my contributions turn into a little snake! 🐍
+  <h3>🔥 Thanks for stopping by!</h3>
 
-<!--
-  GitHub Actions workflow required:
-  .github/workflows/snake.yml
+  <p>
+    <em>Keep building. Keep learning. Keep making an impact.</em>
+  </p>
 
-  Create the workflow described below to generate the SVG files
-  and publish them to the output branch.
--->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,50:B91C1C,100:EF4444&height=120&section=footer&text=Happy%20Coding!&fontSize=26&fontColor=FFFFFF&animation=fadeIn"
+    width="100%"
+    alt="Red waving footer"
+  />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+  <sub>Designed with ❤️ by Monish Dharwadkar</sub>
 
 </div>
-
-### GitHub Action Setup
-
-Create `.github/workflows/snake.yml` in your profile repository:
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
